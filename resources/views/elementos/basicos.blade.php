@@ -1,0 +1,5 @@
+@extends('layouts.app')
+@extends('elementos.navbartop')
+@extends('elementos.breadcrumbs')
+@extends('elementos.title')
+@extends('elementos.no_logued')
